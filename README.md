@@ -1,9 +1,10 @@
 <div align="center">
     <h1>Project FiDiReX</h1>
-    <img src="https://avatars3.githubusercontent.com/u/56075458?s=170&v=4" width="170" align="center" alt="Project FiDiReX">
+    <img src="https://avatars3.githubusercontent.com/u/56075458?s=170&v=4" width="170" alt="Project FiDiReX">
     <br>
     <strong>File, Directory and Registry extensions for .NET development.</strong>
-    <!--<p>FiDiReX is currently in experimental stage, it is **not** ready for production usage.</p>-->
+    <br>
+    <a href="https://github.com/FiDiReX/FiDiReX/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"></a>
 </div>
 <br>
 
