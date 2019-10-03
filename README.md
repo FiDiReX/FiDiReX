@@ -8,7 +8,7 @@
 <br>
 
 ## Introduction
-FiDiReX is .NET Standard library aiming to provide **more convenience** when dealing with files, directories and (Win32) registry.
+FiDiReX is (upcoming) .NET Standard library aiming to provide **more convenience** when dealing with files, directories and (Win32) registry.
 
 ## Under Development
 Documentation, guide for contributing and other information will be provided soon.
