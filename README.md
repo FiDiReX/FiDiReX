@@ -4,7 +4,7 @@
     <br>
     <strong>File, Directory and Registry extensions for .NET development.</strong>
     <br>
-    <a href="https://github.com/FiDiReX/FiDiReX/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"></a>
+    <a href="https://github.com/FiDiReX/FiDiReX/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License"></a>
 </div>
 <br>
 
