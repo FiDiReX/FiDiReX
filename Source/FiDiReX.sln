@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29326.143
-MinimumVisualStudioVersion = 10.0.40219.1
+MinimumVisualStudioVersion = 16.0.29326.143
 Project("{00000000-0000-0000-0000-000000000002}") = "FiDiReX.IO", "FiDiReX.IO\FiDiReX.IO.csproj", "{00000000-0000-0000-0000-000000000003}"
 EndProject
 Project("{00000000-0000-0000-0000-000000000004}") = "FiDiReX.Registry", "FiDiReX.Registry\FiDiReX.Registry.csproj", "{00000000-0000-0000-0000-000000000005}"
